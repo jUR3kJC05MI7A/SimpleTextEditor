@@ -1,3 +1,0 @@
-/home/jajcin/Dokumenty/Programowanie1/Cpp/kilo/build/CMakeFiles/kilo.dir
-/home/jajcin/Dokumenty/Programowanie1/Cpp/kilo/build/CMakeFiles/edit_cache.dir
-/home/jajcin/Dokumenty/Programowanie1/Cpp/kilo/build/CMakeFiles/rebuild_cache.dir
