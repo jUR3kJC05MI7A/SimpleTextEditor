@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/kilo.dir/src/main.cpp.o CMakeFiles/kilo.dir/src/func.cpp.o -o kilo 
